@@ -1,3 +1,0 @@
-0000000000000000000000000000000000000000 f84eaae36094234db15862c70dd3fc0125a1eb51 Wat name? <adsa02.asp@gmail.com> 1779507572 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: storing head
-f84eaae36094234db15862c70dd3fc0125a1eb51 9cc6ddcea349aedef766d68f463d8aff1c4520a5 Wat name? <adsa02.asp@gmail.com> 1779982234 +0700	pull --ff --recurse-submodules --progress origin: fast-forward
-9cc6ddcea349aedef766d68f463d8aff1c4520a5 166283244881ff04cc84d0ec25b0a8a19a7ba58b Wat name? <adsa02.asp@gmail.com> 1779987336 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward

@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 2ef6865d138381958ec3f18c6e772b422342ecb8 Wat name? <adsa02.asp@gmail.com> 1779465487 +0700	branch: Created from origin/feat/f10-s02-download-manager
-2ef6865d138381958ec3f18c6e772b422342ecb8 0e8f09a18f0318b271f5cdff7548bb9a9d745af0 Wat name? <adsa02.asp@gmail.com> 1779613201 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
-0e8f09a18f0318b271f5cdff7548bb9a9d745af0 691d8cd92537f17f9c1f05c8bb6fc8c4ae2da9bd Wat name? <adsa02.asp@gmail.com> 1779614611 +0700	commit: feat: implement webpage.h
-691d8cd92537f17f9c1f05c8bb6fc8c4ae2da9bd cd47530e7469b9067d1a55f73d8a1399046983de Wat name? <adsa02.asp@gmail.com> 1779622305 +0700	pull: fast-forward
