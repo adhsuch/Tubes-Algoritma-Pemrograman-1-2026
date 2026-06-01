@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 117b1b4e4541d9ad3851f693b7ea92739b983fac Wat name? <adsa02.asp@gmail.com> 1779465560 +0700	branch: Created from origin/feat/f05-page-management
+117b1b4e4541d9ad3851f693b7ea92739b983fac c6f8d0a5587c21a36fe9f4d37af74419dd4b5801 Wat name? <adsa02.asp@gmail.com> 1779465695 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+c6f8d0a5587c21a36fe9f4d37af74419dd4b5801 ca462f0713b7f7ec2f26b97e8e74f3e7ce6cd6d2 Wat name? <adsa02.asp@gmail.com> 1779507596 +0700	commit: feat: delete csv
+ca462f0713b7f7ec2f26b97e8e74f3e7ce6cd6d2 029a553bdc11fb92edaef432a5740ff49b8de7fc Wat name? <adsa02.asp@gmail.com> 1779507621 +0700	commit: doc: change spesifikasi to newest doc
+029a553bdc11fb92edaef432a5740ff49b8de7fc 6aae4c9a3f0685fbb1c7f5f9b94a2ea5e9c51439 Wat name? <adsa02.asp@gmail.com> 1779507679 +0700	commit: feat: integrate page manager cache and hardcoded page data
+6aae4c9a3f0685fbb1c7f5f9b94a2ea5e9c51439 b27bdfcde094a75550e6ddecc6790df21a5f40a9 Wat name? <adsa02.asp@gmail.com> 1779612742 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+b27bdfcde094a75550e6ddecc6790df21a5f40a9 6e830a67d732c9715ac30e1bc9c8643910205721 Wat name? <adsa02.asp@gmail.com> 1779612981 +0700	commit: feat: menyesuaikan header webpage.h
+6e830a67d732c9715ac30e1bc9c8643910205721 a0991a86413dd9bfb11d0fc12c0d7b943b127963 Wat name? <adsa02.asp@gmail.com> 1779622261 +0700	commit (merge): Merge branch 'main' of https://github.com/Labpro-23/if1210-tubes-2026-k04-f into feat/f05-page-management
+a0991a86413dd9bfb11d0fc12c0d7b943b127963 c90a2532ae98bfb9b9e9a99a180e76e790220ca6 Wat name? <adsa02.asp@gmail.com> 1779622299 +0700	commit: feat: update main.c
+c90a2532ae98bfb9b9e9a99a180e76e790220ca6 0ed43bf17e914422f2c2c760596925d9d2b942d7 Wat name? <adsa02.asp@gmail.com> 1779623242 +0700	pull: fast-forward
